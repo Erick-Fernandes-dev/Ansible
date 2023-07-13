@@ -2,7 +2,7 @@
 
 
 
-O DevOps busca maneiras de encurtar o seu ciclo de feedbacks entre os times de desenvolvimento e estrutura, tornar o processo com repetições tanto do lado no lado da infraestrutura - como já é feito no lado do desenvolvimento. Se pensarmos em uma forma simples de definir DevOps, trata-se de levarmos a cultura ágil para a cultura de infraestrutura e integrá-las.
+O DevOps busca maneiras de encurtar o seu ciclo de feedbacks entre os times de desenvolvimento e estrutura, tornar o processo com repetições tanto do lado da infraestrutura - como já é feito no lado do desenvolvimento. Se pensarmos em uma forma simples de definir DevOps, trata-se de levarmos a cultura ágil para a cultura de infraestrutura e integrá-las.
 
 
 > **O nome vem exatamente da junção dos mundos "Dev" e "Ops", transformando-os em um único (ou o mais próximo disso).**
